@@ -1,5 +1,5 @@
-const pokebtn = document.getElementById("pokebtn")
-pokebtn.addEventListener("click" ,() =>{
+const ggbtn = document.getElementById("ggbtn")
+ggbtn.addEventListener("click" ,() =>{
 
-    window.alert("This is a beta version!!")
+    window.alert("This is a Simple Number guessing game,Have fun😊 ")
 })
